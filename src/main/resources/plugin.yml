@@ -1,0 +1,12 @@
+name: ajLook
+version: '${project.version}'
+main: net.j4c0b3y.ajlook.Main
+prefix: ajLook
+authors: [ J4C0B3Y ]
+description: Addon for ajParkour to make players look at the starting block.
+website: https://j4c0b3y.net/
+
+commands:
+  ajlook:
+    usage: /ajlook <reload>
+    description: Reloads ajLook

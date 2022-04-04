@@ -1,0 +1,34 @@
+#
+# Credit to ajgeiss0702 for developing ajParkour
+#
+# If you have any questions about the plugin
+# Add J4C0B3Y on discord: https://j4c0b3y.net/
+#
+# Don't report issues to ajgeiss0702 unless its
+# about ajParkour (not this addon)
+#
+
+# Is the addon enabled?
+# Default: true
+enabled: true
+
+# Y offset from the middle of the block.
+# 0.5 makes the player look at the top of the block.
+# Default: 0.5
+y-offset: 0.5
+
+# No permission message sent to the player.
+# Default: '&cNo Permission.'
+no-permission: '&cNo Permission.'
+
+# Unknown command message sent to the player.
+# Default: '&cCommand not found! Use "/ajlook reload" to reload the plugin'
+unknown-command: '&cCommand not found! Use "/ajlook reload" to reload the plugin'
+
+
+# Message sent to the PLAYER when the plugin is reloaded.
+# Default: '&aReloaded!'
+reload: '&aReloaded!'
+
+# Don't change this unless you know what you are doing.
+config-version: 1
